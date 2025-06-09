@@ -174,7 +174,7 @@ Are you a maker, tinkerer, or electronics enthusiast?
 
 Join our WhatsApp group to connect with like-minded people, share projects, get support, and behind the scenes!
 
-👉 [**Click here to join the Community**](#)
+👉 [**Click here to join the Community**](https://chat.whatsapp.com/JCH8m2oZNCG9Hrr31iBuLr)
 
 ## 📚 References
 
