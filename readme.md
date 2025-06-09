@@ -15,10 +15,6 @@
 
 # UART Stick 
 
-> UART Stick is a Micro sized arduino compatible USB to UART converter designed for makers.
-
-
-
 <!-- ## 📌 Table of Contents
 
 - [Overview](#-overview)
