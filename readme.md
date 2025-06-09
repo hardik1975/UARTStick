@@ -41,6 +41,21 @@ Unlike bulky boards, UART Stick is tiny, hassle-free, and packed with all the es
 ![IMG_6009](https://github.com/user-attachments/assets/4426eec0-49e4-4b4b-a8c7-a0a5a33d2cde)
 
 
+## 🛒 Get Yours 
+
+Fill out the [**Order Form**](#) to grab your UART Stick today!
+
+<!-- Choose from two versions via our [**Order Form**](#): -->
+
+Choose from two versions:
+
+1. **DIY Kit** – Includes a bare PCB, CH340G IC, resistor, capacitor, ESD diode, and USB connector.  
+  A great choice for learning and hands-on soldering practice!
+
+2. **Fully Assembled** – Ready to use out of the box. Just plug it into your USB port and start programming!
+
+Perfect for makers, students, and embedded devs — just plug and start building!
+
 
 
 
@@ -124,31 +139,9 @@ Here’s how UART Stick fits into your daily prototyping and debugging workflow:
   A reliable companion for DIY projects, robotics, IoT devices, and lab debugging tasks.
 
 
-## 🔗 Get Yours
-
-- 🛒 **Order Form**: [Link here]
-- 🛠️ **DIY it**: Clone this repo and start building!
-
-
-Want one? You can grab either a DIY kit or a fully assembled version.
-Head over to our Order Form to get started!
 
 
 
-## 🛒 Get Yours 
-
-Fill out the [**Order Form**](#) to grab your UART Stick today!
-
-<!-- Choose from two versions via our [**Order Form**](#): -->
-
-Choose from two versions:
-
-1. **DIY Kit** – Includes a bare PCB, CH340G IC, resistor, capacitor, ESD diode, and USB connector.  
-  A great choice for learning and hands-on soldering practice!
-
-2. **Fully Assembled** – Ready to use out of the box. Just plug it into your USB port and start programming!
-
-Perfect for makers, students, and embedded devs — just plug and start building!
 
 
 
