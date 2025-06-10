@@ -15,6 +15,8 @@
 
 # UART Stick 
 
+![Screen 4032x3024](https://github.com/user-attachments/assets/0c403824-ee08-4852-9067-47b445a0088c)
+
 <!-- ## 📌 Table of Contents
 
 - [Overview](#-overview)
@@ -40,7 +42,6 @@ Unlike bulky boards, UART Stick is tiny, hassle-free, and packed with all the es
 
 <!-- ![IMG_6009](https://github.com/user-attachments/assets/4426eec0-49e4-4b4b-a8c7-a0a5a33d2cde) -->
 
-![Screen 4032x3024](https://github.com/user-attachments/assets/0c403824-ee08-4852-9067-47b445a0088c)
 
 
 
