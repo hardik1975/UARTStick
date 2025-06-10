@@ -46,7 +46,7 @@ Unlike bulky boards, UART Stick is tiny, hassle-free, and packed with all the es
 
 ## 🛒 Get Yours 
 
-Fill out the [**Order Form**](#) to grab your UART Stick today!
+Fill out the [**Order Form**](https://docs.google.com/forms/d/e/1FAIpQLScuvlHv1w9dNxcGCHg3nWeYM4Ih8bzRdD5PpWKtMh8NcgmPcg/viewform?usp=header) to grab your UART Stick today!
 
 <!-- Choose from two versions via our [**Order Form**](#): -->
 
