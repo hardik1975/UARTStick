@@ -38,7 +38,10 @@ Say hello to UART Stick — a micro-sized, Arduino-compatible USB to UART conver
 
 Unlike bulky boards, UART Stick is tiny, hassle-free, and packed with all the essential features you need to program your microcontrollers or read serial data — all while fitting directly into your USB port.
 
-![IMG_6009](https://github.com/user-attachments/assets/4426eec0-49e4-4b4b-a8c7-a0a5a33d2cde)
+<!-- ![IMG_6009](https://github.com/user-attachments/assets/4426eec0-49e4-4b4b-a8c7-a0a5a33d2cde) -->
+
+![Screen 4032x3024](https://github.com/user-attachments/assets/0c403824-ee08-4852-9067-47b445a0088c)
+
 
 
 ## 🛒 Get Yours 
