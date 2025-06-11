@@ -82,7 +82,7 @@ Perfect for makers, students, and embedded devs — just plug and start building
 | USB Connector    | Edge-mounted USB-A        |
 | Operating Voltage| 5V                        |
 | Logic Level      | 3.3V or 5V                |
-| Board Size       | e.g., 20mm x 10mm         |
+| Board Size       | 52.25mm x 12mm            |
 
 
 ## Getting Started
